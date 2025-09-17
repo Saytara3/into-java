@@ -1,0 +1,11 @@
+size (800,60000);
+background (200,200,200);
+fill(150,120,0);
+textSize (32);
+text("Mohamed Ali",50,200);
+fill(200,150,50);
+textSize(38);
+text("ROC student",200,150);
+fill(250,150,200);
+textSize(50);
+text(" 24 years old",300,100);
